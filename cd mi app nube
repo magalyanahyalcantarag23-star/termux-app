@@ -1,0 +1,4 @@
+pkg install git
+git config --global user.name "tu-usuario"
+git config --global user.email "tu-email@example.com"
+git clone https://github.com/tu-usuario/mi-app-nube.git
